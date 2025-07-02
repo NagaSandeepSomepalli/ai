@@ -1,4 +1,4 @@
-# ai
+# AI CHATBOT
 AI_ChatBot
 
 ## 🚀 Features
